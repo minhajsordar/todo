@@ -1,11 +1,19 @@
 Payload cms: 
+
 [11/15, 6:17 PM] Sahriar Sakib: User shouldn’t change other user's tanent permission which user haven’t any tanent admin permission
+
 [11/15, 6:20 PM] Sahriar Sakib: User shouldn’t modify his own and other user's login credentials
+
 [11/15, 6:53 PM] Sahriar Sakib: Role pannel shouldn’t update without fill any of options(user,superadmin)
+
 [11/15, 7:12 PM] Sahriar Sakib: If Super-Admin Remove His own superadmin permission and that time no superadmin exist in payloadcms than must ask for new superadmin to an existing user or outside user!
+
 [11/15, 7:18 PM] Sahriar Sakib: Tanent and Pages edit pannel need to correction.
+
 [11/15, 7:32 PM] Sahriar Sakib: Multiple user editing pannel not working
+
 [11/15, 7:37 PM] Sahriar Sakib: Multiple pages eiditing pannel not working
+
 [11/15, 7:39 PM] Sahriar Sakib: Single page slug editing is not working
 
 
